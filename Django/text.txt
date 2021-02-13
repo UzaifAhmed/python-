@@ -1,0 +1,4 @@
+MVC Abriviation
+Modle = Database
+View = Tamplate / GUI
+Controler = when which page to be opened
