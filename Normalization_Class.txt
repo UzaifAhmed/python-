@@ -1,0 +1,6 @@
+Uniform Distribution
+ex: Every student has same chance to score 100 marks in exam
+
+For data analysis our data should be Normaly Distributed
+
+Subtract from mean and divide by standard daviasion ( where mean = 0 and std.dev = 1)
